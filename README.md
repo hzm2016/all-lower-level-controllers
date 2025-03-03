@@ -1,8 +1,5 @@
-# Hip_exoskeleton_v1.4_control_software
+# IMU free control for hip exoskeleton control
 
-## Python version
-
-## Matlab version
 
 # How to setup the software
 
